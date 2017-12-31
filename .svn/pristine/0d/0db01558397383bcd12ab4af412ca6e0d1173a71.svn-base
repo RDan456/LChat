@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <include
+        android:id="@+id/rl_header"
+        layout="@layout/header_common"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_header"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/tv_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="取消"
+            android:textColor="@color/blue"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:id="@+id/et_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/tv_submit"
+            android:layout_alignTop="@id/tv_submit"
+            android:layout_margin="5dp"
+            android:layout_toLeftOf="@id/tv_submit"
+            android:background="@drawable/radiu_bg"
+            android:hint="昵称/邮箱"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:textSize="16sp"
+            />
+
+        <ImageView
+            android:id="@+id/iv_delete"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignBottom="@id/et_input"
+            android:layout_alignTop="@id/et_input"
+            android:layout_toLeftOf="@id/tv_submit"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/delete"
+            android:clickable="true"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/rg_search"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/rl_search"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_people"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_rg_search"
+            android:button="@android:color/transparent"
+            android:checked="true"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="人"
+            android:textColor="@drawable/selector_tv_search"
+            android:textSize="18sp"
+            />
+
+
+        <RadioButton
+            android:id="@+id/rb_group"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_rg_search"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="群"
+            android:textColor="@drawable/selector_tv_search"
+            android:textSize="18sp"
+            />
+
+
+        <RadioButton
+            android:id="@+id/rb_subscription"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_rg_search"
+            android:button="@android:color/transparent"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="订阅号"
+            android:textColor="@drawable/selector_tv_search"
+            android:textSize="18sp"
+            />
+    </RadioGroup>
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rg_search"
+        android:layout_marginTop="5dp"></ListView>
+
+    <RelativeLayout
+        android:id="@+id/rl_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rg_search"
+        android:background="@color/alphagray"
+        android:visibility="invisible"
+        >
+
+        <ProgressBar
+            android:layout_width="@dimen/pb_width"
+            android:layout_height="@dimen/pb_height"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

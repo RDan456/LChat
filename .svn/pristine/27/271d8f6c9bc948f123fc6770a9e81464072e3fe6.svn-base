@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ci_icon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/ci_icon"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ci_icon"
+            android:text="昵称"
+            android:textColor="#000"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_sinal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_name"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ci_icon"
+            android:text="个性签名"
+            android:textColor="#333"
+            android:textSize="16sp"/>
+</RelativeLayout>

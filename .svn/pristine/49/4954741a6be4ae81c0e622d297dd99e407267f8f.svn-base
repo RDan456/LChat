@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:background="@drawable/selector_dialogue">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/ci_icon"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/ci_icon"
+        android:text="会话名"
+        android:textColor="#000"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/tv_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_name"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/ci_icon"
+        android:text="最后一条信息"
+        android:textColor="#555"
+        android:textSize="16sp"
+        />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ci_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/icon_stub"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:gravity="center"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_above="@+id/tv_msg"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/tv_number"
+        android:padding="3dp"
+        android:textColor="@color/white"
+        android:background="@drawable/corners_bg"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

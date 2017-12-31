@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

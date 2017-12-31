@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">LChat</string>
+    <string name="mainActivity">好友列表</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chatActivity">聊天</string>
+    <string name="title_activity_friend_list">FriendListActivity</string>
+    <string name="title_activity_friends_list_adapter">FriendsListAdapter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

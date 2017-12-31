@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smack-sasl-provided-4.1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/smack-sasl-provided-4.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

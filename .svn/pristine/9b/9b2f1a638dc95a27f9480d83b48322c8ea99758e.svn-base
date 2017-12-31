@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\forward.png",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\forward.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\friend.png",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\friend.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\dingyue.png",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\dingyue.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\friend.png",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\friend.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\forward.png",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\forward.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\dingyue.png",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\dingyue.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\qun.png",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\qun.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\qun.png",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\qun.png"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\me.jpg",
+        "source": "F:\\WorkplaceOfAndroid\\svn\\LChat\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\me.jpg"
+    },
+    {
+        "merged": "F:\\WorkplaceOfAndroid\\branches\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\me.jpg",
+        "source": "F:\\WorkplaceOfAndroid\\branches\\app\\src\\main\\res\\mipmap-xhdpi\\me.jpg"
+    }
+]

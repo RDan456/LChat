@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-debug-slf4j-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3d1c5fde1982ef5384a841443d23122ae57a11e2">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-debug-slf4j-4.1.8_53dba6132a1367726baa8f4d03334a33eefbc4bd.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_67582d529a6a4e3a8b6715059e1b4709aac42f92.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_8a91ff22582fc5b5a3e4258e5104301d35b48c4e.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-resolver-minidns-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c8523942e3a344ae63ba22facf2224db597d1f">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-resolver-minidns-4.1.8_cb52b94549075a1604fc768b588ccffc9be9604a.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_8a1e8bbb951cdfd6bd57f7eedeb91adacfe9a7c4.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_b44d3f51dc071825dfdfef95faf96aa5f1979355.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-android-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="83172a3fa7be927c87d28e21271e07e149b4a028">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-android-4.1.8_af65067f56ac078d57cef3b2d3993205a948f699.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-bosh-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23aa0e786a0cb2bc78cca3f5cafbe2f67cbe4846">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-bosh-4.1.8_3ce6973625c7f36b2f41d1c0ae0622a5fa00768f.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c45c72687da13a1e354cd05920cc16faef94b584.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_13dd346593899cf65894b4f64189823f8fafa04b.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-experimental-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="255562cbfffc4104c16e3fc14166e2b2527f5feb">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-experimental-4.1.8_cae3727a53c509e033a61d9955f6f450d9f1d195.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_510991c2d289dd7de088fcc9e710cafd101c9071.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9bdabbe73ad7170e7a0e5c12e26966431fe4666b.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_c3d53ad69c5221bc16d811738b204beea8bad58a.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_fe61efacafb5070e511416b9b60bc9167f9b8230.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-legacy-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6489c4aec352070f1fff1d81a3b76fa48515b603">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-legacy-4.1.8_c4a698a9627cf57ff8f7f17e31aa60b14a2eef9e.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\org.xbill.dns_2.1.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="608bc47d16560ebd3b8da85854cb121a6b0b4bcb">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\org.xbill.dns_2.1.7_5d521134c7784ac5aac164d04839d3267cfcabe9.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_054ccd7c0166b775b9d5750ee036ae7f39c3cc1a.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_dd65e28354bce4a1b5b3649398ce1f6136bbfeab.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_2f379ec4580ae7fb530855706a44be4e48556806.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_10baa8a33f3506479e0586d70ee0b540c9e8bf53.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_358c13e09f7be9172727125defac9a53d41b52fb.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\jxmpp-core-0.4.2_544bc44a0fec237fe365e2e5bbc764103986c5e0.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-jingle-old-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85ab49a229f13abbf94b9ec6ac8cc30335534d3c">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-jingle-old-4.1.8_4096026745a25b9f423bb89e4586d0d0eeb84fbd.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-debug-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c75384a2934b6a5991fc3d8a9cb1416d80c98686">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-debug-4.1.8_feef0a6f70ae525d5d593f8f532f064b9f7c5c17.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-compression-jzlib-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="333ebbf78ec41ae8d8be6fb68b5afa85be61685c">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-compression-jzlib-4.1.8_47a649bcdbbec7354fffc64a3a0bacac1a987729.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\okhttp-3.0.1_eb88db35601a3c9d323be3909847440cc8e5fe86.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-tcp-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="91cd06461cdf1809db400598f10cab9ee243e8de">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-tcp-4.1.8_643be2d76327a7e1bbd1744d5e570e751b29fcdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.3.1\2c4076b466a0eb4d6ddf5721edd35cd1adc1f317\stetho-1.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\stetho-1.3.1_7138ae15598a298d071e36a3a769c14af77c0763.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c19ee4c1f6487db179d7d3d165769181d86dfad6">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0efe7694168b4f22bc033ac25b3b796914d1afd5.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_2e95a8f0d79fb30e408e46bdc6f823d508a20892.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_8a856922d0c0c067d2a7e55708eef2595050605b.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_9a450b4edfbb0d2f568aa0007b02565347679a1b.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-debug-slf4j-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3d1c5fde1982ef5384a841443d23122ae57a11e2">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-debug-slf4j-4.1.8_c0375446afb53fb583f229684bfb16c831cd22bb.jar" />
+    </item>
+    <item
+        jar="D:\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_5f6518d67e311721ad373643c2e56939eb3599f3.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\jxmpp-jid-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="995562d23bfc8f178e0579c6babcfffde73d59e5">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\jxmpp-jid-0.4.2_3b296eb680014216ddf0dee262b80de72354030b.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_3a6eb3a8da2a8ce0914e7f96b218ac9ab4dcc903.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_f151a3c76da734268b43012d978ad0bd274a1983.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_1529764952913ed4f435205d35254bede6a65d88.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bb7c99478d5bb9d2e9c06470fb0c2cd61cef5ab8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\okio-1.6.0_86f003446bba744639575fd3b0b57b7561ef5987.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_f84d5c45a650d9b03cc6c76db38152aaea0936dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_26144a4ee648d0ff993d2a7b2e5cd1e629865465.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="50b7067046c8f211ab2dd06bac326206b51464ef">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\instant-run_90e5de0468eed41db9553849dc4697ea73742434.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\jxmpp-util-cache-0.4.2_a054b17c3fa60b0518bdf6092ba398ec86780b49.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\jxmpp-jid-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="995562d23bfc8f178e0579c6babcfffde73d59e5">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\jxmpp-jid-0.4.2_2526929ddcee5d812bae7cd05c9497c9a89fe4f9.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5161d5426c655136336fecea772ae64be7eda57a.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a9e166e39735dca2d9597abbe519987ca28cc542.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-resolver-minidns-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c8523942e3a344ae63ba22facf2224db597d1f">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-resolver-minidns-4.1.8_0698c9bafb2d4da6fa0e289f7d216cd3363cce9c.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-im-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4c392898516d687481dafee5dad531fa4448f375">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-im-4.1.8_dca531336a14a478274ac6d4d48ed14702a20db5.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-android-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="83172a3fa7be927c87d28e21271e07e149b4a028">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-android-4.1.8_dc50095013a577aa609b7620e41c9685dc899c94.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.4\3cc424c6eda381bf4aee40dc3ccdecc27b2106aa\rxjava-1.1.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\rxjava-1.1.4_953710ed82eae3db9aa98138fc122f2264fcf0d3.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-core-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4e7f8fab00601fae4a465fe689bbd4df363af7b5">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-core-4.1.8_cb51495fec5b848cf5c23619c046d40fc85ada68.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-android-extensions-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="61ff4428f917ab07c256d33a1f8ce968b4ae9c4c">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-android-extensions-4.1.8_0aa5ab43d907f492c286d87285553c7df271334c.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_5b800dd03fffa470cc545581a2eca02fd9014b0f.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-jingle-old-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85ab49a229f13abbf94b9ec6ac8cc30335534d3c">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-jingle-old-4.1.8_43e5845898d0b2f5c8f92f3c74dc41ca4ddfb301.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f5a00d1a1f7ff54d10a1ac5bb070e5a27cf6624d.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-extensions-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="db1985083fc31895a24cbdc97877ee8d1193594f">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-extensions-4.1.8_5bbb7f644c914cd82779e96f33ed09e7f67f1228.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_288709780ef31636663287abae2d978595430007.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b9797b3f47595d4b3d0f64ba691aebddf03deb46.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_0b32f4be38ede89e21cfca1c8cf74c9609ccedfa.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\minidns-0.1.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\minidns-0.1.7_1a433d70e4172a3b18bfee2a29f8eb0cbe0ab8f1.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-android-extensions-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="61ff4428f917ab07c256d33a1f8ce968b4ae9c4c">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-android-extensions-4.1.8_3d2734e80d8c4fa394a8e5149272071c2683abb7.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.0_0e871c28fed55598e7d8ebc94659e76b00a40413.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-bosh-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23aa0e786a0cb2bc78cca3f5cafbe2f67cbe4846">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-bosh-4.1.8_d1ca13e51710ab2941147ded923fbf7ac398af81.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e4afa2b2efa9cf0108c7d45d51ea3c730683df38.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.0_8e4858dd5cb25066acab14b49131b63c13d3a32e.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_0e04461c7a76c9896d4721d1b5bb4042280c20d5.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\jxmpp-util-cache-0.4.2_6272c5424661f55551a491f0b726be3ae56db025.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\jxmpp-core-0.4.2_1d08a6bd5eb5750ca90f5c054a84f867b7c962d0.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\org.xbill.dns_2.1.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="608bc47d16560ebd3b8da85854cb121a6b0b4bcb">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\org.xbill.dns_2.1.7_d7c3d6aa803cfd1b31b7e6f65120fc0ce6701163.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b3598a97f549bb976716d2bf178c2b365a362bd6.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ea22f6059d91e3ed677f788e4b7d1f53eba44021.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-sasl-provided-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="724d9eb8c8db089118bcc059ee3c2ead188be629">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-sasl-provided-4.1.8_e929ba1c304df18327082ecfef9d1250d3eb7764.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_0522e587ec3da2d859b68809053a938dfb2abc65.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-debug-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c75384a2934b6a5991fc3d8a9cb1416d80c98686">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-debug-4.1.8_ce45c96e531bb4aeb4bb918fe499e1fb867fc3dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\lihanguang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp3\1.3.1\c596b3b33b5a92107bb70544bb5ee35f597bc6d8\stetho-okhttp3-1.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\stetho-okhttp3-1.3.1_bbb835e838f077412d8ef1236229eb0a24896aa1.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-core-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4e7f8fab00601fae4a465fe689bbd4df363af7b5">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-core-4.1.8_1787e6986be5f114a12082a69a24081bc3c9e548.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_536983dea4cda6ce9c4d03b30629d5e0e8b6ab79.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-extensions-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="db1985083fc31895a24cbdc97877ee8d1193594f">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-extensions-4.1.8_b10b05c968b68cb64cac6afe034a230bef488d82.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_8cc53bc0859dce36e46c96a024ae85329e228720.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-tcp-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="91cd06461cdf1809db400598f10cab9ee243e8de">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-tcp-4.1.8_4c599a66bad18dca67901e630471c59c22086569.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_a171e332f0908299eecd13cd304744d59c1a6472.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\minidns-0.1.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\minidns-0.1.7_fb1abd4c74c1ccbc26e45f5064fa86e69e73f6d9.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_3fd63dda980205e214480ef253a567e0dae04ea0.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-compression-jzlib-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="333ebbf78ec41ae8d8be6fb68b5afa85be61685c">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-compression-jzlib-4.1.8_313a6fa0e20ba06fa020e39469461215d15f4d13.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-sasl-provided-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="724d9eb8c8db089118bcc059ee3c2ead188be629">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-sasl-provided-4.1.8_0c0815d0150a7a8a8423a387c6671edc81ccd164.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_75f04169694d01424e7483d0e514b5902c217a2a.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c67ffe8a4a6d344a84c15368b2cc2322d8dd42e1">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\instant-run_c5bdaed9cdb91c0bdffaba9b1fd4c10ebfdfd3dd.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_737cb46c129c87fa5365d08e758ce2b678f79bd7.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\libs\smack-experimental-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="255562cbfffc4104c16e3fc14166e2b2527f5feb">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\smack-experimental-4.1.8_5014ed08f2274b081031b497bb31729db68ce826.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\branches\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="dab472871ab7124b56719dd5dbcc4ffdcdd4a1a5">
+        <dex dex="F:\WorkplaceOfAndroid\branches\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9a81560d40f4df4fa489203c42107226a25e81fe.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-legacy-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6489c4aec352070f1fff1d81a3b76fa48515b603">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-legacy-4.1.8_3dbe9ca702d1221f1d687175d7f1cde1069d8900.jar" />
+    </item>
+    <item
+        jar="F:\WorkplaceOfAndroid\svn\LChat\branches\app\libs\smack-im-4.1.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4c392898516d687481dafee5dad531fa4448f375">
+        <dex dex="F:\WorkplaceOfAndroid\svn\LChat\branches\app\build\intermediates\pre-dexed\debug\smack-im-4.1.8_330c2bd14494db7a181dae19b15d3ca50656c0e7.jar" />
+    </item>
+
+</items>
